@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+<<<<<<< Updated upstream
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
@@ -17,6 +18,14 @@ function App() {
         >
           Learn React
         </a>
+=======
+        <img src={gatorLogo} className="App-logo" alt="logo" />
+        <p> Hello World! </p>
+        <p> My name is Bernard Krasuski and this is my project </p>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       </header>
     </div>
   );
